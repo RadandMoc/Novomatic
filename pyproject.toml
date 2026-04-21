@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "dvc[gdrive]>=3.67.1",
+    "mlflow>=3.11.1",
     "ruff>=0.15.11",
 ]
