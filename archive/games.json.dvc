@@ -1,0 +1,5 @@
+outs:
+- md5: de6f2bb591c6d2766e04e8641b90828d
+  size: 804171942
+  hash: md5
+  path: games.json
