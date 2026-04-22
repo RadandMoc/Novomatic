@@ -1,0 +1,5 @@
+outs:
+- md5: b4aa593b51f9354b9dcae9f98c97bab5
+  size: 1726449
+  hash: md5
+  path: gamesV1.parquet
