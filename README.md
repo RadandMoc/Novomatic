@@ -29,7 +29,7 @@ To polecenie automatycznie pobierze odpowiednią wersję środowiska Python i za
 
 Zestawy danych wykorzystywane w projekcie są zbyt duże, aby przechowywać je bezpośrednio w repozytorium Git, dlatego są wersjonowane za pomocą DVC (Data Version Control).
 
-Zdalny magazyn (remote) został publicznie udostępniony (dostęp do odczytu dla każdego). **Nie potrzebujesz żadnych dodatkowych uprawnień, kluczy ani konfiguracji autoryzacji, aby pobrać pliki.**
+Zdalny magazyn (remote) został udostępniony w formie testowej. Niestety musisz mieć konto w **[google console](https://console.cloud.google.com/)**. Co więcej, **muszę dodać twojego maila ręcznie jako akceptowanego do testów, dlatego jeśli jesteś zainteresowany to napisz do mnie a cię dodam**. Wynika to ze zmian w polityce bezpieczeństwa Google i nie można już udostępniać dowolnej osobie plików z DVC za pomocą dysku google.
 
 Aby pobrać wszystkie niezbędne dane do lokalnego katalogu, uruchom w terminalu:
 
